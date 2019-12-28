@@ -1,0 +1,14 @@
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.csprojAssemblyReference.cache
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.Form1.resources
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.Properties.Resources.resources
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.csproj.GenerateResource.cache
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.csproj.CoreCompileInputs.cache
+F:\AI\Projects\SoundTest\SoundTest\bin\Debug\SoundTest.exe.config
+F:\AI\Projects\SoundTest\SoundTest\bin\Debug\SoundTest.exe
+F:\AI\Projects\SoundTest\SoundTest\bin\Debug\SoundTest.pdb
+F:\AI\Projects\SoundTest\SoundTest\bin\Debug\protobuf-net.dll
+F:\AI\Projects\SoundTest\SoundTest\bin\Debug\SoundFingerprinting.dll
+F:\AI\Projects\SoundTest\SoundTest\bin\Debug\protobuf-net.xml
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.csproj.CopyComplete
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.exe
+F:\AI\Projects\SoundTest\SoundTest\obj\Debug\SoundTest.pdb
